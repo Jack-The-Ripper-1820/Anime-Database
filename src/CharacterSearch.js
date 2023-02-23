@@ -77,7 +77,7 @@ function CharacterSearch() {
   };
 
   return (
-    <div style={{  display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column' }}>
+    <div style={{  display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column', minHeight: '100vh'}}>
       <form onSubmit={handleSearch}>
         <input type="text" value={searchText} onChange={handleInputChange} />
         <button type="submit">Search</button>
