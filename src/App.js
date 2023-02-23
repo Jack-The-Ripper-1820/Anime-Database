@@ -45,7 +45,7 @@ function App() {
             <div className="home">
               <div className="home-content">
                 <h1 className="home-title">Welcome to The Otaku Database</h1>
-                <p className="home-subtitle">Place to find all your info on Anime, Manga and Characters.</p>
+                <p className="home-subtitle">Place to find all the info on your favorite Anime, Manga and Characters.</p>
                 <div className="home-links">
                   <Link to="/Otaku-Database/anime" className="home-link">
                     <img src={animeImage} alt="Anime" className="home-image" />
