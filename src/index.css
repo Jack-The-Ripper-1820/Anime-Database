@@ -111,6 +111,7 @@ nav ul li a {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .home-link {
@@ -125,4 +126,14 @@ nav ul li a {
 .home-image {
   width: 300px;
   height: auto;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease-in-out;
+}
+
+/* Add this CSS rule to the image when the user hovers over it */
+.home-image:hover {
+  /* Add this line to make the image a little bigger */
+  transform: scale(1.1);
+  /* Add the following line to give the image a stronger box shadow */
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
 }

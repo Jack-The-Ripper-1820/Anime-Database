@@ -1,7 +1,7 @@
 {
   "name": "anime-database",
   "version": "0.1.0",
-  "homepage": "https://Jack-The-Ripper-1820.github.io/",
+  "homepage": "https://Jack-The-Ripper-1820.github.io/Otaku-Database",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
