@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import AnimeSearch from './AnimeSearch';
 import CharacterSearch from './CharacterSearch';
 import MangaSearch from './MangaSearch';
-
+import './App.css';
 import animeImage from './images/anime.jpg';
 import mangaImage from './images/manga.jpg';
 import charactersImage from './images/characters.jpg';
@@ -44,7 +44,7 @@ function App() {
           <Route path="/Otaku-Database" element={
             <div className="home">
               <div className="home-content">
-                <h1 className="home-title">Welcome to Otaku Database</h1>
+                <h1 className="home-title">Welcome to The Otaku Database</h1>
                 <p className="home-subtitle">Place to find all your info on Anime, Manga and Characters.</p>
                 <div className="home-links">
                   <Link to="/Otaku-Database/anime" className="home-link">

@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import axios from 'axios';
+import './App.css';
 
 function AnimeSearch() {
   const [searchText, setSearchText] = useState('');
@@ -69,7 +70,7 @@ function AnimeSearch() {
   return (
     <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' ,flexDirection: 'column', minHeight: '100vh' }}>
       <form onSubmit={handleSearch}>
-        <input type="text" value={searchText} onChange={handleInputChange} />
+        <input type="text" value={searchText} onChange={handleInputChange}/>
         <button type="submit">Search</button>
       </form>
       {searchResults.length > 0 && (
@@ -81,7 +82,7 @@ function AnimeSearch() {
               </h3>
               <img style={{ cursor: 'pointer' }} onClick={() => handleImageClick(index)} src={result.image} alt={result.title} />
               {result.showDetails && (
-                <div style={{ marginTop: '1em' }}>
+                <div style={{ marginTop: '1em'}}>
                   <p>{result.summary}</p>
                   <p>Average Score: {result.score}</p>
                   <p>Genres: {result.genres}</p>
