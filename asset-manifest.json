@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Otaku-Database/static/css/main.9fa67cf8.css",
-    "main.js": "/Otaku-Database/static/js/main.c3f246b1.js",
-    "static/js/787.cf6b4aea.chunk.js": "/Otaku-Database/static/js/787.cf6b4aea.chunk.js",
+    "main.css": "/Otaku-Database/static/css/main.d0f8edbc.css",
+    "main.js": "/Otaku-Database/static/js/main.691df099.js",
+    "static/js/488.1ef1fbd5.chunk.js": "/Otaku-Database/static/js/488.1ef1fbd5.chunk.js",
     "static/media/background.jpg": "/Otaku-Database/static/media/background.b1aa12c8a4b4f60207b7.jpg",
     "static/media/manga.jpg": "/Otaku-Database/static/media/manga.fa1c0cc981e310dd9797.jpg",
     "static/media/characters.jpg": "/Otaku-Database/static/media/characters.7411ebd20a3df6556810.jpg",
     "static/media/anime.jpg": "/Otaku-Database/static/media/anime.14554f5ff3099e771623.jpg",
     "index.html": "/Otaku-Database/index.html",
-    "main.9fa67cf8.css.map": "/Otaku-Database/static/css/main.9fa67cf8.css.map",
-    "main.c3f246b1.js.map": "/Otaku-Database/static/js/main.c3f246b1.js.map",
-    "787.cf6b4aea.chunk.js.map": "/Otaku-Database/static/js/787.cf6b4aea.chunk.js.map"
+    "main.d0f8edbc.css.map": "/Otaku-Database/static/css/main.d0f8edbc.css.map",
+    "main.691df099.js.map": "/Otaku-Database/static/js/main.691df099.js.map",
+    "488.1ef1fbd5.chunk.js.map": "/Otaku-Database/static/js/488.1ef1fbd5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fa67cf8.css",
-    "static/js/main.c3f246b1.js"
+    "static/css/main.d0f8edbc.css",
+    "static/js/main.691df099.js"
   ]
 }
