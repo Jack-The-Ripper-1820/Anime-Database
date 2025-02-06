@@ -16,7 +16,7 @@ function App() {
           <ul className="nav-menu">
             <li className="nav-item">
               <Link to="/Anime-Database" className="nav-link">
-                <h2 className="nav-title">Otaku Database</h2>
+                <h2 className="nav-title">Anime Database</h2>
               </Link>
             </li>
             <li className="nav-item">
@@ -44,7 +44,7 @@ function App() {
           <Route path="/Anime-Database" element={
             <div className="home">
               <div className="home-content">
-                <h1 className="home-title">Welcome to The Otaku Database</h1>
+                <h1 className="home-title">Welcome to The Anime Database</h1>
                 <p className="home-subtitle">Place to find all the info on your favorite Anime, Manga and Characters.</p>
                 <div className="home-links">
                   <Link to="/Anime-Database/anime" className="home-link">
