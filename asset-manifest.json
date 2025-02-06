@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Anime-Database/static/css/main.dfd98e9a.css",
-    "main.js": "/Anime-Database/static/js/main.37ecd2e9.js",
+    "main.js": "/Anime-Database/static/js/main.f43a7f62.js",
     "static/js/488.1ef1fbd5.chunk.js": "/Anime-Database/static/js/488.1ef1fbd5.chunk.js",
     "static/media/background.jpg": "/Anime-Database/static/media/background.b1aa12c8a4b4f60207b7.jpg",
     "static/media/manga.jpg": "/Anime-Database/static/media/manga.fa1c0cc981e310dd9797.jpg",
@@ -9,11 +9,11 @@
     "static/media/anime.jpg": "/Anime-Database/static/media/anime.14554f5ff3099e771623.jpg",
     "index.html": "/Anime-Database/index.html",
     "main.dfd98e9a.css.map": "/Anime-Database/static/css/main.dfd98e9a.css.map",
-    "main.37ecd2e9.js.map": "/Anime-Database/static/js/main.37ecd2e9.js.map",
+    "main.f43a7f62.js.map": "/Anime-Database/static/js/main.f43a7f62.js.map",
     "488.1ef1fbd5.chunk.js.map": "/Anime-Database/static/js/488.1ef1fbd5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfd98e9a.css",
-    "static/js/main.37ecd2e9.js"
+    "static/js/main.f43a7f62.js"
   ]
 }
